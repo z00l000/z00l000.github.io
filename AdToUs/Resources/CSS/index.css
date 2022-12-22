@@ -1,0 +1,25 @@
+* {
+    font-family: Helvetica, Arial, sans-serif;
+  }
+   
+   
+  h1 {
+    color: SeaGreen;
+  }
+   
+   
+  p, 
+  li {
+    font-size: 18px;
+  }
+   
+   
+  a {
+    text-decoration: none;
+  }
+
+.company-name {
+      align-items: center;
+      justify-content: center;
+      display: flex;
+  }
